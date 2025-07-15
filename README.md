@@ -1,4 +1,17 @@
-# Hello! :computer: :keyboard: :bulb:
+## 👋 Hello! I'm João Paulo Freire
 
-My name is João Paulo Freire, I'm Brazilian and I was born in 2005. I'm interested in programming, more specifically in web development. I completed the Systems Development technical course along with High School in December 2022 at Etec Rodrigues de Abreu, and I am currently studying Database Technology at Fatec de Bauru (SP), where I currently live. I don't work in this area (not yet 🙂), but I'm doing my best to learn and master programming languages ​​and apply them to business interests.
+🎓 I'm a Brazilian student currently in the 6th semester of a Bachelor's degree in Database Technology at Fatec Bauru (SP).  
+💻 I also completed a technical course in Systems Development at Etec Rodrigues de Abreu in 2022.  
+🌐 I'm passionate about web development, especially front-end, and I enjoy creating interfaces that combine good design and functional code.
 
+🔧 My main skills include:
+- Languages: JavaScript, SQL, Python (academic level)
+- Web: HTML, CSS, JavaScript (React and Node.js)
+- Databases: Oracle, MySQL, MongoDB
+- Tools: VS Code, SQL Developer, Figma
+
+🚀 I'm currently working on improving my portfolio and building projects that reflect real-world scenarios. I'm always open to learning new technologies and collaborating on interesting ideas!
+
+📫 You can find more about me here:
+- [LinkedIn](https://www.linkedin.com/in/jo4o-s4ntos/)
+- [Portfolio Website](https://joao-santos-portfolio.netlify.app/)
